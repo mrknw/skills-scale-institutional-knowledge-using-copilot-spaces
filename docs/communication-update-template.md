@@ -1,7 +1,7 @@
 # Communication Update Template
 
 ## Purpose
-This document provides standardized templates for consistent stakeholder communication across projects. The Communications Lead uses these templates to ensure clear, timely, and actionable updates. Reference the [Risk Management & Communication Guide](octoacme-risks-and-communication.md) for overall communication strategy.
+This document provides standardized templates for consistent stakeholder communication across projects. The Communications Lead uses these templates to ensure clear, timely, and actionable updates. Reference the [OctoAcme — Risk Management & Communication](octoacme-risks-and-communication.md) for overall communication strategy.
 
 ---
 
@@ -532,7 +532,7 @@ Contact {Support team or Communications Lead} at {contact info}
 
 ## Related Documents
 
-- [Risk Management & Communication](octoacme-risks-and-communication.md) - Overall communication strategy
-- [Roles & Personas](octoacme-roles-and-personas.md) - Communications Lead responsibilities
+- [OctoAcme — Risk Management & Communication](octoacme-risks-and-communication.md) - Overall communication strategy
+- [OctoAcme — Roles & Personas](octoacme-roles-and-personas.md) - Communications Lead responsibilities
 - [Risk Escalation Protocol](risk-escalation-protocol.md) - When and how to escalate
 - [Release Checklist](release-checklist.md) - Release communication requirements

@@ -1,7 +1,7 @@
 # Risk Escalation Protocol
 
 ## Purpose
-This protocol provides clear guidance on when and how to escalate risks, ensuring that issues are addressed at the appropriate level with the right urgency. Use this in conjunction with the [Risk Management & Communication Guide](octoacme-risks-and-communication.md).
+This protocol provides clear guidance on when and how to escalate risks, ensuring that issues are addressed at the appropriate level with the right urgency. Use this in conjunction with the [OctoAcme — Risk Management & Communication](octoacme-risks-and-communication.md).
 
 ---
 
@@ -254,6 +254,6 @@ Track protocol effectiveness metrics:
 
 ## Related Documents
 
-- [Risk Management & Communication](octoacme-risks-and-communication.md) - Overall risk management approach
-- [Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions including Risk Champion
-- [Project Management Overview](octoacme-project-management-overview.md) - Context on project governance
+- [OctoAcme — Risk Management & Communication](octoacme-risks-and-communication.md) - Overall risk management approach
+- [OctoAcme — Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions including Risk Champion
+- [OctoAcme — Project Management Overview](octoacme-project-management-overview.md) - Context on project governance

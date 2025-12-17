@@ -1,7 +1,7 @@
 # Release Checklist
 
 ## Purpose
-This checklist provides a comprehensive guide for Release Managers and teams to ensure all critical steps are completed before, during, and after a release to production. Use this in conjunction with the [Release & Deployment Guide](octoacme-release-and-deployment.md).
+This checklist provides a comprehensive guide for Release Managers and teams to ensure all critical steps are completed before, during, and after a release to production. Use this in conjunction with the [OctoAcme — Release & Deployment Guide](octoacme-release-and-deployment.md).
 
 ---
 
